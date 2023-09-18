@@ -1,0 +1,2 @@
+to use this script is currently made for mac os just run npm run hossam and a screen recording will be made with todays date to be backed up and uploaded
+ all scripts need to be ran using external terminal this can be set in the vs code settings easily for permisons reasons 

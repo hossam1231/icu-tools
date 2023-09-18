@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Specter",
+    "description": "Specter co-pilot",
+    "file": "read.py"
+  },
+  {
+    "name": "App 2",
+    "description": "Description for App 2",
+    "file": "app2.py"
+  },
+  { "name": "App 3", "description": "Description for App 3", "file": "app3.py" }
+]
